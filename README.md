@@ -282,12 +282,29 @@ window.show()
 ### 4.6 效果
 
 
+阻尼=1.0
+
+<img width="1932" height="1280" alt="7 2 1" src="https://github.com/user-attachments/assets/9877a3c7-d91b-4b49-813f-544e437297d9" />
+
+<img width="1932" height="1280" alt="2" src="https://github.com/user-attachments/assets/17300cb5-1f22-4894-b4a0-0de854e32ad9" />
+
+<img width="1932" height="1280" alt="3" src="https://github.com/user-attachments/assets/8a80eb0b-0a36-46af-95c2-ee055cc40134" />
+
+阻尼=5.0
+
+<img width="1932" height="1280" alt="4" src="https://github.com/user-attachments/ass
+ets/3d852195-e56a-4bf0-a298-0bf494e3a213" />
+
+<img width="1932" height="1280" alt="55" src="https://github.com/user-attachments/assets/dec90452-8ce3-4458-9206-3a74656e1e73" />
+
+<img width="1932" height="1280" alt="66、" src="https://github.com/user-attachments/assets/33ae0c76-ef39-42c6-a928-b231767a6e35" />
 
 
 
 ## 💡 五、选做内容实现
 
 ### 🔀 5.1 弹簧模型完善
+
 
 高级版（`src/advanced.py`）在结构弹簧基础上补充了：
 
@@ -362,6 +379,14 @@ def generate_sphere():
 
 使用经纬度法生成球体网格，20×20 分辨率。
 
+### 5.3 效果
+
+<img width="1932" height="1280" alt="7" src="https://github.com/user-attachments/assets/06372895-149c-4b75-975b-f7a0b945c7d3" />
+
+
+<img width="1932" height="1280" alt="8" src="https://github.com/user-attachments/assets/42e01fc4-35de-419a-bfab-226ad63fb117" />
+
+<img width="1932" height="1280" alt="9" src="https://github.com/user-attachments/assets/7460104f-9d15-485c-b195-e34ad2db144e" />
 
 
 ## 📊 六、实验结果与分析
